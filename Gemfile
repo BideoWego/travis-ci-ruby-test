@@ -4,3 +4,7 @@ source "https://rubygems.org"
 gem 'rspec'
 gem 'guard'
 gem 'guard-rspec'
+
+group :test do
+  gem 'rake'
+end
