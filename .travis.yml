@@ -1,4 +1,7 @@
 ---
+# TODO Test running Node.js tests with Jasmine and Karma
+# http://stackoverflow.com/a/18457016/5113832
+
 language: ruby
 rvm:
   - 2.2
